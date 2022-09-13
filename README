@@ -1,1 +1,18 @@
 This is a repo used for showing how to use Git.  We will all make commits, pulls, pushed, checkouts, branches, etc, and we will deal with merge conflicts and look at git histories.
+
+
+In the activity today, we are going to work together to write a program...
+
+In the file src/classprogram.py, we are going to create some variables and perform some manipulations to make a program that will do something....
+
+
+Students 1-8:
+In each of your fields, you are going to create a variable and give it a value.  
+
+Students 1-5: create the variable name<N> (N is your number... 1-4) and set it to your name
+
+Students 6-10: Add an element to the list "mylist". The value can be any numeric value (doesn't matter what number you choose). 
+
+Students 11-15: Create a string that will say "Student <N> <insert verb> the number <number>".  <N> is your number, minus 10.  <insert verb> means adlib and pick a verb. <number> should be the Nth number in the list "mylist".  Call your string variable "message<N>"  (<N> is the same number as before).
+
+Students 16-20: Print message<N>.  <N> is your number, minus 15.
