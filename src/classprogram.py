@@ -33,8 +33,8 @@
 
 
 # student 11 
-
-
+#Jonah
+message1="Student 1 despises the number"+str(mylist[0])
 # student 12 
 
 
