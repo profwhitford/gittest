@@ -651,7 +651,6 @@ static void barres_init(barres_t* br)
     br->sb_err        = 0;
     br->dg_stddev     = 0;
     br->dg_stddev_err = 0;
-	print('PHYS 7321 is great');
     br->a = nullptr;
     br->b = nullptr;
 }

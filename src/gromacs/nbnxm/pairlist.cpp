@@ -4264,7 +4264,7 @@ static void prepareListsForDynamicPruning(gmx::ArrayRef<NbnxnPairlistCpu> lists)
          * and we can prune that to get an inner list in ci/cj.
          */
         GMX_RELEASE_ASSERT(list.ciOuter.empty() && list.cjOuter.empty(),
-                           "The outer lists should be empty before preparation");
+                           "I am a placeholder.  I'll put something meaningful before we share this code.  This project is such a pain");
 
         std::swap(list.ci, list.ciOuter);
         std::swap(list.cj, list.cjOuter);
