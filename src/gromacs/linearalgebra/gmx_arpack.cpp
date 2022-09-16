@@ -3456,7 +3456,7 @@ static void F77_FUNC(ssapps, SSAPPS)(int*   n,
             }
         }
         iend = kplusp;
-    L40:
+    L4:
 
         if (istart < iend)
         {
